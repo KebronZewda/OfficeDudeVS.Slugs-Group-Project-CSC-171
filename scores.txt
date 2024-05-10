@@ -1,0 +1,12 @@
+11
+92 Play through 7: 92 points
+11 Play through 5: 11 points
+10 Play through 3: 10 points
+3 Play through 6: 3 points
+2 Play through 4: 2 points
+1 Play through 8: 1 points
+0 Play through 2: 0 points
+0 Play through 1: 0 points
+0 Play through 9: 0 points
+0 Play through 10: 0 points
+0 Play through 11: 0 points
